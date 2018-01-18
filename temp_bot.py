@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys, ast
 from linepy import *
-from commands import "
+from temp_commands import commands
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
